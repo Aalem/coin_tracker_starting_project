@@ -1,0 +1,2 @@
+const kAPIKey = '';
+const kBaseURL = '';
