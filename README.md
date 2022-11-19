@@ -5,7 +5,7 @@ A flutter application which is used to display the price of cryptocurrencies suc
 
 ### End Result Screenshots
 #### iOS
-![iOS Screenshot](https://github.com/Aalem/coin-tracker-starting-project/blob/master/screenshot_ios.png?raw=true)
+<img src="https://github.com/Aalem/coin-tracker-starting-project/blob/master/screenshot_ios.png" width="100"/>
 
 #### Android
-![iOS Screenshot](https://github.com/Aalem/coin-tracker-starting-project/blob/master/screenshot_android.png?raw=true)
+<img src="https://github.com/Aalem/coin-tracker-starting-project/blob/master/screenshot_android.png" width="100"/>
